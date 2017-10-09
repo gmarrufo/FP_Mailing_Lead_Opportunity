@@ -1,0 +1,28 @@
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\FP_Mailing_Lead_Opportunity.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\FP_Mailing_Lead_Opportunity.pdb
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\AntiXssLibrary.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Client.xml
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Portal.xml
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Debug\FPMailingLeadOpportunity.csprojResolveAssemblyReference.cache
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Debug\FP_Mailing_Lead_Opportunity.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Debug\FP_Mailing_Lead_Opportunity.pdb
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\FP_Mailing_Lead_Opportunity.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\FP_Mailing_Lead_Opportunity.pdb
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Client.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\AntiXssLibrary.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Client.xml
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Portal.xml
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Debug\FPMailingLeadOpportunity.csprojResolveAssemblyReference.cache
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Debug\FP_Mailing_Lead_Opportunity.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Debug\FP_Mailing_Lead_Opportunity.pdb

@@ -1,0 +1,32 @@
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\FP_Mailing_Lead_Opportunity.dll
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\FP_Mailing_Lead_Opportunity.pdb
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Client.dll
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Portal.dll
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Sdk.dll
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FP_Mailing_Lead_Opportunity.dll
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FP_Mailing_Lead_Opportunity.pdb
+S:\CRM\Lead-Oppor-Dist\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FPMailingLeadOpportunity.csprojResolveAssemblyReference.cache
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\FP_Mailing_Lead_Opportunity.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\FP_Mailing_Lead_Opportunity.pdb
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Client.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Portal.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\AntiXssLibrary.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Client.xml
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Portal.xml
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Sdk.Workflow.xml
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Sdk.Deployment.xml
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FPMailingLeadOpportunity.csprojResolveAssemblyReference.cache
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FP_Mailing_Lead_Opportunity.dll
+C:\NET_Workspace\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FP_Mailing_Lead_Opportunity.pdb
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\FP_Mailing_Lead_Opportunity.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\FP_Mailing_Lead_Opportunity.pdb
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FPMailingLeadOpportunity.csprojResolveAssemblyReference.cache
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FP_Mailing_Lead_Opportunity.dll
+C:\Users\apatrickus\Desktop\New folder\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Release\FP_Mailing_Lead_Opportunity.pdb

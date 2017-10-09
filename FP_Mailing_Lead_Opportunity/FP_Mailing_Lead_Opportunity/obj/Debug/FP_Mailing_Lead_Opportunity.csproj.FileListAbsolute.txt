@@ -1,0 +1,6 @@
+c:\users\apatrickus\documents\visual studio 2012\Projects\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\FP_Mailing_Lead_Opportunity.dll
+c:\users\apatrickus\documents\visual studio 2012\Projects\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\FP_Mailing_Lead_Opportunity.pdb
+c:\users\apatrickus\documents\visual studio 2012\Projects\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\apatrickus\documents\visual studio 2012\Projects\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\apatrickus\documents\visual studio 2012\Projects\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Debug\FP_Mailing_Lead_Opportunity.dll
+c:\users\apatrickus\documents\visual studio 2012\Projects\FP_Mailing_Lead_Opportunity\FP_Mailing_Lead_Opportunity\obj\Debug\FP_Mailing_Lead_Opportunity.pdb
